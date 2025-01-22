@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🚀 I’m currently working on a project to bring my resume to life with an interactive 3D portfolio.
-- 🌐 I'm diving deeper into Blender, Three.js, and WebGL to enhance my skills in 3D modeling and web-based visualizations.
-- 🤝 I’m eager to collaborate on Spatial Computing, 3D modeling, and immersive web projects.
+- 🚀 I’m a passionate **.NET Developer** with a strong focus on building efficient, scalable, and maintainable solutions using **C#**, **Blazor**, and the **Azure Ecosystem**.  
+- 🌐 Skilled in **automation**, **AI integration**, and **cloud-based solutions**, I enjoy solving complex problems and delivering impactful results.  
+- 🤝 Always excited to collaborate on projects involving **.NET development**, **RESTful APIs**, and **cloud architecture**.  
